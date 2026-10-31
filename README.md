@@ -9,3 +9,12 @@ it contains 4-5 performance metrics.
 3. FCP (first contentful paint) - measures how long it's takes for the first text or image to appear.
 4. LCP (Largest contentful paint) - measures how long it takes for the man visible content to appears.
 5. TTFB (Time to first Byte) - measures how long it takes to receive the first byte of a response.
+
+
+- header
+- body
+    - sidebar
+    - maincontent
+        - video buttons (filters)
+        - video carts 
+    
